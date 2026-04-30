@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on im current<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🚀 Passionate Computer Science student exploring AI, Machine Learning, and Full Stack Development.<br>🌱 Currently learning Agentic AI, Cloud Computing, and scalable application development.<br>🤝 Open to collaborating on AI, Web Development, and innovative tech projects.<br>⚡ Fun fact: I enjoy turning ideas into practical applications and learning new technologies faster with AI tools.
 
 
 # 📊 GitHub Stats:
